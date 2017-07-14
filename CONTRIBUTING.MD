@@ -1,0 +1,1 @@
+To contribute to this repo, please create a new file with your name in the `contributions` folder e.g abiola.html, got it but just playing with learning git. Thanks you sir
